@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Freelance Web and App development, and consultation'
-datePublished: '2015-11-23T17:52:10.610Z'
-dateModified: '2015-11-23T17:52:07.723Z'
+datePublished: '2015-11-23T17:55:39.760Z'
+dateModified: '2015-11-23T17:55:36.217Z'
 title: Phil Rennie
 author: []
 sourcePath: _posts/2015-11-23-phil-rennie.md
